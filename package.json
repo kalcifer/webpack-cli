@@ -37,9 +37,8 @@
   "jest": {
     "testEnvironment": "node",
     "rootDir": ".",
-    "testPathDirs": [
-      "tests"
-    ],
+    "transform": "babel-jest",
+    "testPathDirs":["tests"],
     "moduleFileExtensions": [
       "js"
     ],
