@@ -4,6 +4,7 @@
 	MIT License http://www.opensource.org/licenses/mit-license.php
 	Author Tobias Koppers @sokra
 */
+
 var path = require('path');
 // Local version replace global one
 try {
