@@ -13,7 +13,7 @@
   },
   "main": "./bin/webpack.js",
   "scripts": {
-    "lint": "eslint ./lib",
+    "lint": "eslint ./lib ./bin",
     "install-commit-validator": "fit-commit-js install",
     "test": "jest"
   },
